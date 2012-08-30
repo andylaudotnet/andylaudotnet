@@ -1,0 +1,8 @@
+﻿111111
+any,10200,10201
+10
+8192
+c:\w1\shoppingapp.7z
+c:\w2
+K:\Worked\SWIFTS\Tool\7z.exe
+c:\w3
